@@ -1,16 +1,114 @@
 [
-  { "id": "r1", "subject": "국어", "group": "AOK", "name": "AOK 5~8주차", "total": 4, "done": 0 },
-  { "id": "r2", "subject": "국어", "group": "실모", "name": "T1M 7, 8회", "total": 2, "done": 0 },
-  { "id": "r3", "subject": "국어", "group": "실모", "name": "KEY모 The Selection", "total": 1, "done": 0 },
-  { "id": "r4", "subject": "국어", "group": "실모", "name": "KEY모", "total": 3, "done": 0 },
-  { "id": "r5", "subject": "국어", "group": "실모", "name": "서바이벌", "total": 4, "done": 0 },
-  { "id": "r6", "subject": "수학", "group": "수1", "name": "기출", "total": 250, "done": 0 },
-  { "id": "r7", "subject": "수학", "group": "수1", "name": "Theme 8", "total": 1, "done": 0 },
-  { "id": "r8", "subject": "수학", "group": "수2", "name": "적분 잔여", "total": 30, "done": 0 },
-  { "id": "r9", "subject": "수학", "group": "수2", "name": "TRUSS 복기", "total": 1, "done": 0 },
-  { "id": "r10", "subject": "수학", "group": "수2", "name": "설맞이 N제", "total": 1, "done": 0 },
-  { "id": "r11", "subject": "영어", "group": "독해", "name": "KISSCHEMA Ch.2~7", "total": 6, "done": 0 },
-  { "id": "r12", "subject": "영어", "group": "주간지", "name": "매달KISS", "total": 1, "done": 0 },
-  { "id": "r13", "subject": "탐구", "group": "과학", "name": "Momentum", "total": 1, "done": 0 },
-  { "id": "r14", "subject": "탐구", "group": "사회", "name": "통합사회", "total": 1, "done": 0 }
+  {
+    "id": "r1",
+    "subject": "국어",
+    "group": "독서",
+    "name": "독서 기초 연습",
+    "total": 4,
+    "done": 0
+  },
+  {
+    "id": "r2",
+    "subject": "국어",
+    "group": "문학",
+    "name": "문학 개념 확인",
+    "total": 2,
+    "done": 0
+  },
+  {
+    "id": "r3",
+    "subject": "국어",
+    "group": "문제",
+    "name": "연습 문제 A",
+    "total": 1,
+    "done": 0
+  },
+  {
+    "id": "r4",
+    "subject": "국어",
+    "group": "문제",
+    "name": "연습 문제 B",
+    "total": 3,
+    "done": 0
+  },
+  {
+    "id": "r5",
+    "subject": "국어",
+    "group": "문제",
+    "name": "주간 복습",
+    "total": 4,
+    "done": 0
+  },
+  {
+    "id": "r6",
+    "subject": "수학",
+    "group": "개념",
+    "name": "수학 연습 문제",
+    "total": 10,
+    "done": 0
+  },
+  {
+    "id": "r7",
+    "subject": "수학",
+    "group": "개념",
+    "name": "단원 핵심 개념",
+    "total": 1,
+    "done": 0
+  },
+  {
+    "id": "r8",
+    "subject": "수학",
+    "group": "연습",
+    "name": "기본 문제",
+    "total": 5,
+    "done": 0
+  },
+  {
+    "id": "r9",
+    "subject": "수학",
+    "group": "복습",
+    "name": "오답 복습",
+    "total": 1,
+    "done": 0
+  },
+  {
+    "id": "r10",
+    "subject": "수학",
+    "group": "연습",
+    "name": "심화 문제",
+    "total": 1,
+    "done": 0
+  },
+  {
+    "id": "r11",
+    "subject": "영어",
+    "group": "독해",
+    "name": "독해 연습",
+    "total": 6,
+    "done": 0
+  },
+  {
+    "id": "r12",
+    "subject": "영어",
+    "group": "어휘",
+    "name": "단어 복습",
+    "total": 1,
+    "done": 0
+  },
+  {
+    "id": "r13",
+    "subject": "탐구",
+    "group": "개념",
+    "name": "탐구 개념 정리",
+    "total": 1,
+    "done": 0
+  },
+  {
+    "id": "r14",
+    "subject": "탐구",
+    "group": "연습",
+    "name": "탐구 문제 풀이",
+    "total": 1,
+    "done": 0
+  }
 ]
